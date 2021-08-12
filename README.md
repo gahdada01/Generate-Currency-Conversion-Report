@@ -8,8 +8,10 @@
  - Results will be found in the report directory
 
 # Create .env file in the root directory
-  - Contact the developer to get the access key
   - Add these properties
-    API_ACCESS_KEY='access_key'
+  ```
+  API_ACCESS_KEY='access_key'
+  CURRENCY_RATE_API='http://api.exchangeratesapi.io/v1/'
+  ```
+  - Contact the developer to get the access key
 
-    CURRENCY_RATE_API='http://api.exchangeratesapi.io/v1/'
