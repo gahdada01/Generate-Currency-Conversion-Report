@@ -1,0 +1,17 @@
+{
+  "name": "weekly-currency-conversion-report",
+  "version": "1.0.0",
+  "description": "connect to the ratesapi.io API to get the last weeks worth of rates ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Richard Vergis",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "exceljs": "^4.2.1",
+    "got": "^11.8.2",
+    "luxon": "^2.0.2"
+  }
+}

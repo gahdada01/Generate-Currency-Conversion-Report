@@ -1,0 +1,43 @@
+# package directories
+node_modules
+reports
+
+# compiled output
+.serverless
+/dist
+.out-tsc
+.webpack
+dist
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/test-reports
+/.nyc_output
+/libpeerconnection.log
+npm-debug.log
+testem.log
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# environments
+.env
+.env.development
+.env.production
