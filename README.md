@@ -1,13 +1,13 @@
-# Install packages
+### Install packages
  - npm install
 
-# To start the app
+### To start the app
  - npm run start
 
-# Report Directory
+### Report Directory
  - Results will be found in the report directory
 
-# Create .env file in the root directory
+### Create .env file in the root directory
   - Add these properties
   ```
   API_ACCESS_KEY='access_key'
