@@ -13,5 +13,5 @@
   API_ACCESS_KEY='access_key'
   CURRENCY_RATE_API='http://api.exchangeratesapi.io/v1/'
   ```
-  - Contact the developer to get the access key
+  - Get your access key [here](https://exchangeratesapi.io/pricing/) 
 
